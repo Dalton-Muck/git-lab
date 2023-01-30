@@ -45,6 +45,18 @@ Author: Dalton Muck <tm033520@ohio.edu>
 Date:   Fri Jan 27 18:29:16 2023 -0500
     Initial commit
 
+Answer 9 
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+Everything up-to-date
 
+Answer 10 
+No 
 
-//
+Answer 11
+Everything up-to-date
+
+Answer 12
+Yes, CS 2400 section 104. Answers are located in answers.md
+
+Answer 13 
+.  ..  git-lab-2
